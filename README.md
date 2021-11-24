@@ -8,3 +8,13 @@ make generate
 ```
 
 This will prompt for the day's number, generate the scaffolding and download the puzzle input.
+
+## Build All Puzzles
+```shell
+make build-all
+```
+
+## Clean All Puzzles
+```shell
+make clean-all
+```
