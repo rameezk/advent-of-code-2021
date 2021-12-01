@@ -3,3 +3,5 @@ nimblecache/
 htmldocs/
 
 .session
+
+bin/
